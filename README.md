@@ -39,3 +39,7 @@ Additional resources:
    python bikeshare.py
    ```
 5. Follow the prompts to filter the data and analyze the statistics.
+
+### Data Analysis Results
+
+After filtering the data and analyzing the statistics, we found interesting insights into the usage patterns of bikeshare systems across different cities. The most popular times of travel, common stations, and user demographics provide valuable information for optimizing bikeshare operations and services.
