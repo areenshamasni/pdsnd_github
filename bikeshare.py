@@ -213,6 +213,7 @@ def main():
         user_stats(df)
         display_raw_data(df)
 
+        # Ask user to restart the process.
         restart = input('\nWould you like to restart? Enter yes or no.\n').strip().lower()
         if restart != 'yes':
             break
